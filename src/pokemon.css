@@ -1,0 +1,21 @@
+.pokedex {
+  display: flex;
+}
+
+.pokecard {
+    width: 200px;
+    border: 2px black solid;
+    background-color: gray;
+    border-radius: 10px;
+    display: inline-block;
+  }
+
+ .pokemon-text{
+    text-align: center
+  }
+
+.pokecard-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
